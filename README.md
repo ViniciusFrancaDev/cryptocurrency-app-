@@ -1,1 +1,2 @@
-# cryptocurrency-app-
+# cryptocurrency-app
+WIP
