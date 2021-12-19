@@ -6,8 +6,8 @@ import App from './App';
 import 'antd/dist/antd.css';
 
 ReactDOM.render(
-    <Router>
-        <App />
-    </Router>,
-    document.getElementById('root')
+  <Router>
+    <App />
+  </Router>,
+  document.getElementById('root')
 );
